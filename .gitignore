@@ -1,5 +1,5 @@
 *.DS_Store
-data_nongit/
+flow_direction/data_nongit/
 
 # FROM gitignore.io -> Python, JupyterNotebooks, Julia
 
@@ -195,3 +195,7 @@ Thumbs.db
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,julia
 .vscode/settings.json
+
+notebooks/temp/
+
+flow_direction/notebooks/temp/
