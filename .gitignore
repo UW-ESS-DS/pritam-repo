@@ -199,3 +199,13 @@ Thumbs.db
 notebooks/temp/
 
 flow_direction/notebooks/temp/
+
+*.nc
+
+hw4_hw5/HYP_50M_SR_W.prj
+
+hw4_hw5/HYP_50M_SR_W.tfw
+
+hw4_hw5/HYP_50M_SR_W.tif
+
+hw4_hw5/glathida/
