@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UW-ESS-DS/pritam-repo-flow_dir/6e1e3fdb731dc1b84bc93ee123a93f30787f40ab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UW-ESS-DS/pritam-repo-flow_dir/dev?filepath=flow_direction%2FMekong_flow_direction.ipynb)
 
 # Flow Direction
 
