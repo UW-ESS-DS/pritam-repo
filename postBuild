@@ -1,0 +1,10 @@
+cd flow_direction
+mkdir data
+cd data
+
+wget https://www.dropbox.com/s/jyomm4rlu8hlq0f/mekong_flowaccumulation.tif?dl=0 -O mekong_flowaccumulation.tif
+wget https://www.dropbox.com/s/wnho3b0kx81twjj/mekong_grid.dbf?dl=0 -O mekong_grid.dbf
+wget https://www.dropbox.com/s/e0imlpu23x068ux/mekong_grid.prj?dl=0 -O mekong_grid.prj
+wget https://www.dropbox.com/s/he686nqxekf0ggc/mekong_grid.shp?dl=0 -O mekong_grid.shp
+wget https://www.dropbox.com/s/fbtws9big1s06ha/mekong_grid.shp.xml?dl=0 -O mekong_grid.shp.xml
+wget https://www.dropbox.com/s/0ztih3a1ir7hwar/mekong_grid.shx?dl=0 -O mekong_grid.shx
